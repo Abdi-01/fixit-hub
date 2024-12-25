@@ -8,6 +8,7 @@
     <title>@yield('title', 'FixIt Hub')</title>
 
     @vite('resources/css/app.css')
+    <link rel="stylesheet" href="{{ mix('build/assets/app-ZnEAotRE.css') }}">
 
     {{-- <link rel="stylesheet" href="{{ asset('build/app.css') }}">
     <link rel="stylesheet" href="{{ asset('build/assets/app-ZnEAotRE.css') }}">

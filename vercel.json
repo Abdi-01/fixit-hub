@@ -16,7 +16,6 @@
         }
     ],
     "rewrites": [
-        { "src": "/build/assets/(.*)", "dest": "/public/build/assets/$1" },
         {
             "source": "/(.*)",
             "destination": "/api/index.php"
