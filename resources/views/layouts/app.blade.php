@@ -9,7 +9,7 @@
 
     @vite('resources/css/app.css')
 
-    <link rel="stylesheet" href="{{ asset('assets/app-*.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/app-BmI-86B9.css') }}">
     {{-- <link rel="stylesheet" href="{{ asset('build/app.css') }}">
     <link rel="stylesheet" href="{{ asset('app.css') }}"> --}}
 
